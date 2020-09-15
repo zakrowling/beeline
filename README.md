@@ -1,1 +1,1 @@
-# Someone to dump test assets for hosting
+# Someone to dump test assets for prototypes
